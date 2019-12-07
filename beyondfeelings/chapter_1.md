@@ -4,8 +4,6 @@
 
 单词备注
 
-Virtually adv 虚拟的；事实上，实际上；差不多；
-
 beset v 困扰。**过去时:beset 过去分词:beset.**
 
 gathering n 聚会；**收集，采集；**
